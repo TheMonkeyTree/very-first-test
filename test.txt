@@ -1,1 +1,3 @@
 Boujour, c'est un premier test d'utilisation de Github.
+
+On ajoute du texte pour le second test.
